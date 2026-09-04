@@ -1,0 +1,6 @@
+{
+  "name": "Smart Canteen Queue Predictor 🍔",
+  "description": "AI-powered smart canteen queue prediction and pre-ordering web application for college canteens.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
